@@ -37,3 +37,8 @@ Application is use python server get image from mobile devices, detect, extract 
 
 ### Train Acuracy ~ 97%
 ### Test Acuracy ~ 92%
+
+
+------------
+
+[![Output](https://s3.amazonaws.com/sportsseam-public-read/NFL/demo/wKx92kXT4e.gif "Output")](https://s3.amazonaws.com/sportsseam-public-read/NFL/demo/wKx92kXT4e.gif "Output")
