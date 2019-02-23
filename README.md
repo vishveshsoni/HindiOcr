@@ -5,13 +5,13 @@
 Ocr that extract character from the images.
 Currently it can able to recognize language- ENGLISH and HINDI
 
-WITH TOTAL 46 CLASSES : vowels, consonants and digits
+##### WITH TOTAL 46 CLASSES : Vowels, Consonants and Digits
 
-Application is use python server get image from mobile devices, detect, extract the character and send text responce.
 
 ### Image Processing
 
 ------------
+######  Character detection alorithm is able to recognize each character from given image precisely with level of segmentation. 
 
 [![](https://s3.amazonaws.com/sportsseam-public-read/NFL/demo/Capture.PNG)](https://s3.amazonaws.com/sportsseam-public-read/NFL/demo/Capture.PNG)
 
@@ -24,7 +24,8 @@ Application is use python server get image from mobile devices, detect, extract 
 
 ------------
 
-## Architecture
+## Deep Learning
+### Architecture
 ##### CONV2D --> MAXPOOL --> CONV2D --> MAXPOOL -->FC -->Softmax--> Classification
 
 ### Python Implementation
