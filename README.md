@@ -5,10 +5,12 @@
 Ocr that extract character from the images.
 Currently it can able to recognize language- ENGLISH and HINDI
 
+Application - Flasked based server get images from mobile devices and return extracted text in json formate.
+
 ##### WITH TOTAL 46 CLASSES : Vowels, Consonants and Digits
 
 
-### Image Processing
+## 1. Image Processing
 
 ------------
 ######  Character detection alorithm is able to recognize each character from given image precisely with level of segmentation. 
@@ -24,7 +26,7 @@ Currently it can able to recognize language- ENGLISH and HINDI
 
 ------------
 
-## Deep Learning
+## 2. Deep Learning
 ### Architecture
 ##### CONV2D --> MAXPOOL --> CONV2D --> MAXPOOL -->FC -->Softmax--> Classification
 
