@@ -24,13 +24,13 @@ Application is use python server get image from mobile devices, detect, extract 
 
 ------------
 
-####Architecture
-######CONV2D --> MAXPOOL --> CONV2D --> MAXPOOL -->FC -->Softmax--> Classification
+## Architecture
+##### CONV2D --> MAXPOOL --> CONV2D --> MAXPOOL -->FC -->Softmax--> Classification
 
-####Python Implementation
-#####1. Dataset- Devnagari Character Dataset.
-#####2. Images of size 32 X 32.
-#####3. Convolutional Network (CNN).
+### Python Implementation
+##### 1. Dataset- Devnagari Character Dataset.
+##### 2. Images of size 32 X 32.
+##### 3. Convolutional Network (CNN).
 
 ------------
 
