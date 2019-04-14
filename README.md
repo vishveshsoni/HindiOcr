@@ -7,24 +7,23 @@ Currently it can able to recognize language- ENGLISH and HINDI
 
 Application - Flasked based server get images from mobile devices and return extracted text in json formate.
 
-##### WITH TOTAL 46 CLASSES : Vowels, Consonants and Digits
+##### WITH TOTAL 58 CLASSES : Vowels, Consonants and Digits
 
 
 ## 1. Image Processing
 
 ------------
-######  Character detection alorithm is able to recognize each character from given image precisely with level of segmentation. 
+##### -   Character localization on real world image 
 
-[![](https://s3.amazonaws.com/sportsseam-public-read/NFL/demo/Capture.PNG)](https://s3.amazonaws.com/sportsseam-public-read/NFL/demo/Capture.PNG)
+![](https://s3.amazonaws.com/sportsseam-public-read/NFL/demo/Capture.PNG)
 
-
+------------
+##### -   Character localization on Document image 
+![](https://i.ibb.co/xHhZz31/contours.jpg)
 
 ------------
 
-
-[![](https://s3.amazonaws.com/sportsseam-public-read/NFL/demo/bin.png)](https://s3.amazonaws.com/sportsseam-public-read/NFL/demo/bin.png)
-
-------------
+![](https://s3.amazonaws.com/sportsseam-public-read/NFL/demo/bin.png)
 
 ## 2. Deep Learning
 ### Architecture
