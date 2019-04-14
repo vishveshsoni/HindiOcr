@@ -13,17 +13,18 @@ Application - Flasked based server get images from mobile devices and return ext
 ## 1. Image Processing
 
 ------------
-##### -   Character localization on real world image 
+### -   Character localization on real world image 
 
-![](https://s3.amazonaws.com/sportsseam-public-read/NFL/demo/Capture.PNG)
+![](https://i.ibb.co/1vgQykz/Capture.png)
 
 ------------
-##### -   Character localization on Document image 
+### -   Character localization on Document image 
+
 ![](https://i.ibb.co/xHhZz31/contours.jpg)
 
 ------------
 
-![](https://s3.amazonaws.com/sportsseam-public-read/NFL/demo/bin.png)
+![](https://i.ibb.co/6DNNgMw/bin-1.png)
 
 ## 2. Deep Learning
 ### Architecture
