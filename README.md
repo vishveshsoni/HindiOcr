@@ -5,8 +5,6 @@
 Ocr that extract character from the images.
 Currently it can able to recognize language- ENGLISH and HINDI
 
-Application - Flasked based server get images from mobile devices and return extracted text in json formate.
-
 ##### WITH TOTAL 58 CLASSES : Vowels, Consonants and Digits
 
 
