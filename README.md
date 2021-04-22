@@ -42,4 +42,4 @@ Currently it can able to recognize language- ENGLISH and HINDI
 
 ------------
 
-[![Output](https://s3.amazonaws.com/sportsseam-public-read/NFL/demo/wKx92kXT4e.gif "Output")](https://s3.amazonaws.com/sportsseam-public-read/NFL/demo/wKx92kXT4e.gif "Output")
+[![Output](sample/wKx92kXT4e.gif "Output")
