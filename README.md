@@ -42,4 +42,4 @@ Currently it can able to recognize language- ENGLISH and HINDI
 
 ------------
 
-[![Output](sample/wKx92kXT4e.gif "Output")
+![Output](sample/wKx92kXT4e.gif "Output")
